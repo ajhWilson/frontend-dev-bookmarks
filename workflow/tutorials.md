@@ -18,7 +18,11 @@ Step by step guides for setting up a frontend development workflow.
     + **[Environment Setup & Yeoman](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-2-environment-setup-and-yeoman/)**: In this part the author outlines how to set up your dev environment, and how to scaffold a project using Yeoman.
     + **[Grunt Tasks](http://www.gpmd.co.uk/blog/front-end-process-flat-builds-and-automation-part-3-grunt-tasks/)**: The author outlined how to set up your dev environment, and how to scaffold a project using Yeoman. In this third part we will look at how to install and configure some grunt tasks.
 
+### Gulp
 
++ **[A Healthy Gulp Setup for AngularJS Projects](http://blog.rangle.io/angular-gulp-bestpractices/)**: Over the past 2 years, Gulp has established itself as an important piece of most modern front end projects. As early adopters of this life changing technology at Rangle, we've encountered our share of pitfalls which guided us to valuable lessons about sublteties that can make a world of difference. Today, we'd like to share some of the learned insights with you.
+
++ **[6 Gulp Best Practices You Can Use Today to Radically Improve Your Development Experience](http://paislee.io/a-healthy-gulp-setup-for-angularjs-projects/)**
 ------------------
 
 # License
