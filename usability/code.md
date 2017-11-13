@@ -22,6 +22,7 @@ It was designed to be lightweight, easy to use, and extendable.
 It is completely themable via CSS.
 + **[ansi_up](https://github.com/drudru/ansi_up)**: A javascript library that converts text with ANSI terminal codes into colorful HTML
 + **[tabIndent.js](http://julianlam.github.io/tabIndent.js/)**: tabIndent.js enhances a textarea, so that the tab key no longer takes you to the next input, but rather, acts like a text editor by inserting a tab character.
++ **[Codedrops](https://tympanus.net/codrops/)**: Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities.
 
 
 ------------------
