@@ -41,6 +41,8 @@ Ready to use and well documented structures and frameworks for frontend developm
 + **[SMACSS](https://smacss.com/book/)**: SMACSS (pronounced “smacks”) is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. It is an attempt to document a consistent approach to site development when using CSS.
 + **[T3](http://t3js.org/)**: T3 is a minimalist JavaScript framework sponsored by Box Inc. that provides core structure to code.
 + **[TodoMVC](http://todomvc.com/)**: A project which offers the same Todo application implemented using MV* concepts in most of the popular JavaScript MV* frameworks of today.
++ **[Dev Docs](http://devdocs.io)**: Fast, offline, and free documentation browser for developers. Search 100+ docs in one web app.
+
 
 
 ------------------
