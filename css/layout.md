@@ -1,4 +1,4 @@
-#CSS = Layout/Structure
+# CSS - Layout/Structure
 
 ### Flex
 + **[Flex Cheat Sheet](https://yoksel.github.io/flex-cheatsheet/)**: "Interactive sheat sheet for Flex Box"
